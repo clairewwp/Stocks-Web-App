@@ -1,0 +1,49 @@
+
+.content{
+    font-family:  "Kaushan Script", "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;  
+}
+.btn {
+    padding: 5px 32px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    background:transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    cursor: pointer;
+    border-radius:30px;
+  }
+  .btn-light {
+   
+    margin-top: 1.5rem;
+    font-family: "Kaushan Script", "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    ;
+    background: rgb(255, 255, 255,0.3);
+    border-color:rgb(70, 153, 169);
+    border-width: 3px;
+  }
+  .btn-light:hover {
+    background: rgba(48, 141, 153, 0.534);
+  }.h2{color:rgb(234, 201, 55);
+    text-align: center;
+    margin-top: 50px;
+  }.text{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: justify;
+  }#close{
+    display: inline-block;
+    position:sticky;
+    top: 50%;
+    left: 50%;
+    background: rgba(27, 79, 175, 0.3);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 50px;
+    
+  }

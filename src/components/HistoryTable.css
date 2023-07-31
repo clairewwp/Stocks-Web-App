@@ -1,0 +1,21 @@
+#title, h4{
+    font-size: large;
+    font-weight: bold;
+    color:rgb(251, 251, 251);
+    font-family:'Times New Roman', Times, serif;
+}.historyBadge{
+     font-weight: bold;
+}.picker{ 
+    font-size:medium;
+    background-color: rgb(252, 252, 252);
+    color: rgb(57, 89, 185);
+    border-color: aliceblue;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}.historyTable {
+  margin-top: 5px;
+  font-family:"Times New Roman", Times, serif;
+  font-style: italic;
+  font-size:0.9rem;
+
+}

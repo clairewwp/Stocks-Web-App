@@ -1,0 +1,15 @@
+#search{    
+   width: 10rem;
+   height: 2.1rem;
+   background-color: white;
+   color: black;
+   border-radius: 5px;
+   font-family: monospace;
+   margin-top: 3px;
+   font-size: 0.7rem;
+}#search-button{
+    height: 1.8rem;
+    background-color: #fff;
+    border-color: #fff;
+    border-radius: 5px;
+}
