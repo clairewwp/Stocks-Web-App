@@ -1,3 +1,7 @@
+# Stocks Market Web Application
+
+Video Demonstration: https://youtu.be/0Vxyc8X8CIM
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
